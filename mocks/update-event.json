@@ -1,7 +1,7 @@
 {
-    "body": "{\"content\":\"whos there\",\"attachment\":\"woot.jpg\"}",
+    "body": "{\"content\":\"write\",\"attachment\":\"read.jpg\"}",
     "pathParameters": {
-        "id": "41590c90-1eaa-11ea-b3b1-9559c94e1313"
+        "id": "cbdd3680-1ea9-11ea-8c29-ebb1195a8598"
     },
     "requestContext": {
         "identity": {
