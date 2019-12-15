@@ -67,3 +67,12 @@ functions:
         method: get
         cors: true
         authorizer: aws_iam
+
+  update:
+    handler: update.main
+    events:
+      - http:
+        path: comics/{id}
+        method: update
+        cors: true
+        authorizer: aws_iam
